@@ -1,0 +1,20 @@
+print('Witaj, świecie!')
+print(2 ** 8)
+
+drwal = 'OK'
+drwal
+2 ** 8
+
+'Mielonka!'*8
+
+x
+
+import os
+os.getcwd()
+
+for x in 'mielonka':
+print(x)
+
+for x in 'mielonka':
+print(x)
+print('gotowe')
