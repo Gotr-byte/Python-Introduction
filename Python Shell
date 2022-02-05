@@ -1,0 +1,59 @@
+
+Python 3.10.2 (tags/v3.10.2:a58ebcc, Jan 17 2022, 14:12:15) [MSC v.1929 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+2**100
+1267650600228229401496703205376
+'Mielonka" * 10
+SyntaxError: unterminated string literal (detected at line 1)
+"Mielonka" * 10
+'MielonkaMielonkaMielonkaMielonkaMielonkaMielonkaMielonkaMielonkaMielonkaMielonka'
+X = 'mielonka'
+X + 'NI'
+'mielonkaNI'
+IMPORT OS, SYS
+SyntaxError: invalid syntax
+import os, sys
+os.getcwd()
+'C:\\Users\\Admin\\AppData\\Local\\Programs\\Python\\Python310'
+
+sys.platform
+'win32'
+sys.path
+['', 'C:\\Users\\Admin\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\idlelib', 'C:\\Users\\Admin\\AppData\\Local\\Programs\\Python\\Python310\\python310.zip', 'C:\\Users\\Admin\\AppData\\Local\\Programs\\Python\\Python310\\DLLs', 'C:\\Users\\Admin\\AppData\\Local\\Programs\\Python\\Python310\\lib', 'C:\\Users\\Admin\\AppData\\Local\\Programs\\Python\\Python310', 'C:\\Users\\Admin\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages']
+help(bin)
+Help on built-in function bin in module builtins:
+
+bin(number, /)
+    Return the binary representation of an integer.
+    
+    >>> bin(2796202)
+    '0b1010101010101010101010'
+
+import this
+The Zen of Python, by Tim Peters
+
+Beautiful is better than ugly.
+Explicit is better than implicit.
+Simple is better than complex.
+Complex is better than complicated.
+Flat is better than nested.
+Sparse is better than dense.
+Readability counts.
+Special cases aren't special enough to break the rules.
+Although practicality beats purity.
+Errors should never pass silently.
+Unless explicitly silenced.
+In the face of ambiguity, refuse the temptation to guess.
+There should be one-- and preferably only one --obvious way to do it.
+Although that way may not be obvious at first unless you're Dutch.
+Now is better than never.
+Although never is often better than *right* now.
+If the implementation is hard to explain, it's a bad idea.
+If the implementation is easy to explain, it may be a good idea.
+Namespaces are one honking great idea -- let's do more of those!
+
+
+== RESTART: C:\Users\Admin\AppData\Local\Programs\Python\Python310\script1.py ==
+win32
+1267650600228229401496703205376
+Mielonka!Mielonka!Mielonka!Mielonka!Mielonka!Mielonka!Mielonka!Mielonka!
