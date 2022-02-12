@@ -16,9 +16,9 @@ for line in handle:
     if not line.startswith("From") or line.startswith("from"):
         continue
     emails = words[1]
-    #print(emails)
+    
     x = emails.find("@")
-    print(x)
+    
     domains = emails[x:]
 	#for word in word
     counts[domains] = counts.get(domains,0) + 1
